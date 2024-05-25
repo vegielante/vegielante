@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Incident Report Analysis </b>
-- [Applying the NIST CSF framwork](https://github.com/vegielante/Incident-Report-Analysis/tree/main)
+  - [Applying the NIST CSF framework](https://github.com/vegielante/Incident-Report-Analysis/tree/main)
 - <b>File Permissions in Linux </b>
   - [Modifying permissions in files and directories using Linux commands](https://github.com/vegielante/File-Permissions-in-Linux-Lab/tree/main)
 
