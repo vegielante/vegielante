@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>File Permissions in Linux </b>
-  - Modifying permissions in files and directories using Linux commands.
+  - [Modifying permissions in files and directories using Linux commands](https://github.com/vegielante/File-Permissions-in-Linux-Lab/tree/main)
 
 
 
