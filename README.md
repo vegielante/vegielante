@@ -1,6 +1,7 @@
 <h1>Hi, I'm Jayson
   
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+  <a href="https://www.linkedin.com/in/jayson-g01/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<h2>Cybersecurity Projects:</h2>
 
 - <b>Incident Report Analysis </b>
   - [Applying the NIST CSF framework](https://github.com/vegielante/Incident-Report-Analysis/tree/main)
@@ -16,9 +17,9 @@
   - [Play It Safe: Manage Security Risks](https://coursera.org/share/b25a8b7bdb465ba0e708c6677cdeac62)
   - [Foundations of Cybersecurity](https://coursera.org/share/6a6b0db46bf06fe4a8b4d5a3e2794501)
 
-<h2> LinkedIn:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: https://www.linkedin.com/in/jayson-g01/
+
+
+
+
