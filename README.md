@@ -1,7 +1,7 @@
 <h1>Hi, I'm Jayson
   
   <a href="https://www.linkedin.com/in/jayson-g01/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<h2>Cybersecurity Projects:</h2>
+<h2>Cybersecurity Portfolio:</h2>
 
 - <b>Incident Report Analysis </b>
   - [Applying the NIST CSF framework](https://github.com/vegielante/Incident-Report-Analysis/tree/main)
